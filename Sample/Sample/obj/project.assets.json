@@ -427,11 +427,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\webst\\source\\repos\\Sample\\Sample\\Sample.csproj",
+      "projectUniqueName": "C:\\Users\\webst\\Desktop\\Practice\\SchoolManager\\Sample\\Sample\\Sample.csproj",
       "projectName": "Sample",
-      "projectPath": "C:\\Users\\webst\\source\\repos\\Sample\\Sample\\Sample.csproj",
+      "projectPath": "C:\\Users\\webst\\Desktop\\Practice\\SchoolManager\\Sample\\Sample\\Sample.csproj",
       "packagesPath": "C:\\Users\\webst\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\webst\\source\\repos\\Sample\\Sample\\obj\\",
+      "outputPath": "C:\\Users\\webst\\Desktop\\Practice\\SchoolManager\\Sample\\Sample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
