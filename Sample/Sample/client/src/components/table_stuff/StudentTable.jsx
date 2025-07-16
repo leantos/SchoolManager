@@ -73,7 +73,7 @@ const StudentTable = ({
     try {
       loadingTimer = setTimeout(() => {
         setLoading(true);
-      }, 300);
+      }, 1000);
       const res = await fetch(`/Student?id=${id}`, {
         method: "DELETE",
         headers: {
@@ -127,7 +127,7 @@ const StudentTable = ({
     console.log(query);
     loadingTimer = setTimeout(() => {
       setLoading(true);
-    }, 300);
+    }, 1000);
     try {
       const res = await fetch(
         `/Student/search?limit=${limit}&offset=${offset}`,
@@ -157,6 +157,7 @@ const StudentTable = ({
       console.error(err);
     }finally{
       clearTimeout(loadingTimer);
+      setLoading(false)
     }
   };
 
@@ -179,7 +180,7 @@ const StudentTable = ({
       };
       loadingTimer = setTimeout(() => {
         setLoading(true);
-      }, 300);
+      }, 1000);
       try {
         const res = await fetch(
           `/Student/search?limit=${limit}&offset=${offset}`,
@@ -198,6 +199,7 @@ const StudentTable = ({
         setMessage("Error while paging through search results");
       }finally{
         clearTimeout(loadingTimer);
+        setLoading(false);
       }
     } else {
       setCurrentPage(pageNum);
