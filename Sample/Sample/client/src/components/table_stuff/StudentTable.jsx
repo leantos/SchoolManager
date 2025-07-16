@@ -263,7 +263,7 @@ const StudentTable = ({
                 placeholder="You can also enter part of their name to find them"
               ></input>
               <input
-                type="text"
+                type="number"
                 className="form-control"
                 onChange={(e) => setPercentage(e.target.value)}
                 placeholder="You can also enter their percentage to find them"
