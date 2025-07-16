@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\webst\\source\\repos\\Sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{102EFFD2-2D26-410A-8983-A202F0887FCA}|Sample\\Sample.csproj|c:\\users\\webst\\source\\repos\\sample\\sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102EFFD2-2D26-410A-8983-A202F0887FCA}|Sample\\Sample.csproj|solutionrelative:sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102EFFD2-2D26-410A-8983-A202F0887FCA}|Sample\\Sample.csproj|c:\\users\\webst\\source\\repos\\sample\\sample\\client\\src\\components\\table\\studenttable.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{102EFFD2-2D26-410A-8983-A202F0887FCA}|Sample\\Sample.csproj|solutionrelative:sample\\client\\src\\components\\table\\studenttable.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102EFFD2-2D26-410A-8983-A202F0887FCA}|Sample\\Sample.csproj|c:\\users\\webst\\source\\repos\\sample\\sample\\client\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{102EFFD2-2D26-410A-8983-A202F0887FCA}|Sample\\Sample.csproj|solutionrelative:sample\\client\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102EFFD2-2D26-410A-8983-A202F0887FCA}|Sample\\Sample.csproj|c:\\users\\webst\\source\\repos\\sample\\sample\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102EFFD2-2D26-410A-8983-A202F0887FCA}|Sample\\Sample.csproj|solutionrelative:sample\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102EFFD2-2D26-410A-8983-A202F0887FCA}|Sample\\Sample.csproj|c:\\users\\webst\\source\\repos\\sample\\sample\\client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{102EFFD2-2D26-410A-8983-A202F0887FCA}|Sample\\Sample.csproj|solutionrelative:sample\\client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102EFFD2-2D26-410A-8983-A202F0887FCA}|Sample\\Sample.csproj|c:\\users\\webst\\source\\repos\\sample\\sample\\client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{102EFFD2-2D26-410A-8983-A202F0887FCA}|Sample\\Sample.csproj|solutionrelative:sample\\client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102EFFD2-2D26-410A-8983-A202F0887FCA}|Sample\\Sample.csproj|c:\\users\\webst\\source\\repos\\sample\\sample\\client\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{102EFFD2-2D26-410A-8983-A202F0887FCA}|Sample\\Sample.csproj|solutionrelative:sample\\client\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102EFFD2-2D26-410A-8983-A202F0887FCA}|Sample\\Sample.csproj|c:\\users\\webst\\source\\repos\\sample\\sample\\client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{102EFFD2-2D26-410A-8983-A202F0887FCA}|Sample\\Sample.csproj|solutionrelative:sample\\client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102EFFD2-2D26-410A-8983-A202F0887FCA}|Sample\\Sample.csproj|c:\\users\\webst\\source\\repos\\sample\\sample\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102EFFD2-2D26-410A-8983-A202F0887FCA}|Sample\\Sample.csproj|solutionrelative:sample\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102EFFD2-2D26-410A-8983-A202F0887FCA}|Sample\\Sample.csproj|c:\\users\\webst\\source\\repos\\sample\\sample\\client\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{102EFFD2-2D26-410A-8983-A202F0887FCA}|Sample\\Sample.csproj|solutionrelative:sample\\client\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102EFFD2-2D26-410A-8983-A202F0887FCA}|Sample\\Sample.csproj|c:\\users\\webst\\source\\repos\\sample\\sample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{102EFFD2-2D26-410A-8983-A202F0887FCA}|Sample\\Sample.csproj|solutionrelative:sample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\webst\\source\\repos\\Sample\\Sample\\client\\src\\App.js",
+              "RelativeDocumentMoniker": "Sample\\client\\src\\App.js",
+              "ToolTip": "C:\\Users\\webst\\source\\repos\\Sample\\Sample\\client\\src\\App.js",
+              "RelativeToolTip": "Sample\\client\\src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-09T04:37:24.214Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\webst\\source\\repos\\Sample\\Sample\\controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Sample\\controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\webst\\source\\repos\\Sample\\Sample\\controllers\\StudentController.cs",
+              "RelativeToolTip": "Sample\\controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T05:24:48.776Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\webst\\source\\repos\\Sample\\Sample\\services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Sample\\services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\webst\\source\\repos\\Sample\\Sample\\services\\StudentService.cs",
+              "RelativeToolTip": "Sample\\services\\StudentService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:21:16.572Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\webst\\source\\repos\\Sample\\Sample\\client\\public\\index.html",
+              "RelativeDocumentMoniker": "Sample\\client\\public\\index.html",
+              "ToolTip": "C:\\Users\\webst\\source\\repos\\Sample\\Sample\\client\\public\\index.html",
+              "RelativeToolTip": "Sample\\client\\public\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-09T05:05:25.279Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\webst\\source\\repos\\Sample\\Sample\\Program.cs",
+              "RelativeDocumentMoniker": "Sample\\Program.cs",
+              "ToolTip": "C:\\Users\\webst\\source\\repos\\Sample\\Sample\\Program.cs",
+              "RelativeToolTip": "Sample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T05:14:02.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentTable.jsx",
+              "DocumentMoniker": "C:\\Users\\webst\\source\\repos\\Sample\\Sample\\client\\src\\components\\table\\StudentTable.jsx",
+              "RelativeDocumentMoniker": "Sample\\client\\src\\components\\table\\StudentTable.jsx",
+              "ToolTip": "C:\\Users\\webst\\source\\repos\\Sample\\Sample\\client\\src\\components\\table\\StudentTable.jsx",
+              "RelativeToolTip": "Sample\\client\\src\\components\\table\\StudentTable.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-10T05:07:37.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\webst\\source\\repos\\Sample\\Sample\\client\\src\\App.css",
+              "RelativeDocumentMoniker": "Sample\\client\\src\\App.css",
+              "ToolTip": "C:\\Users\\webst\\source\\repos\\Sample\\Sample\\client\\src\\App.css",
+              "RelativeToolTip": "Sample\\client\\src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-09T11:54:42.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\webst\\source\\repos\\Sample\\Sample\\client\\src\\index.css",
+              "RelativeDocumentMoniker": "Sample\\client\\src\\index.css",
+              "ToolTip": "C:\\Users\\webst\\source\\repos\\Sample\\Sample\\client\\src\\index.css",
+              "RelativeToolTip": "Sample\\client\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-09T11:38:43.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\webst\\source\\repos\\Sample\\Sample\\client\\src\\index.js",
+              "RelativeDocumentMoniker": "Sample\\client\\src\\index.js",
+              "ToolTip": "C:\\Users\\webst\\source\\repos\\Sample\\Sample\\client\\src\\index.js",
+              "RelativeToolTip": "Sample\\client\\src\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-09T05:04:55.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\webst\\source\\repos\\Sample\\Sample\\client\\package.json",
+              "RelativeDocumentMoniker": "Sample\\client\\package.json",
+              "ToolTip": "C:\\Users\\webst\\source\\repos\\Sample\\Sample\\client\\package.json",
+              "RelativeToolTip": "Sample\\client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T12:10:09.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\webst\\source\\repos\\Sample\\Sample\\appsettings.json",
+              "RelativeDocumentMoniker": "Sample\\appsettings.json",
+              "ToolTip": "C:\\Users\\webst\\source\\repos\\Sample\\Sample\\appsettings.json",
+              "RelativeToolTip": "Sample\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T05:23:55.853Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

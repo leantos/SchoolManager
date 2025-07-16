@@ -1,0 +1,17 @@
+body {
+    background-color: antiquewhite;
+    font-family: Bahnschrift, sans-serif;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+}
+
+.text-main {
+    color: darkred;
+}
+
+.text-titles{
+    color: darkblue;
+}
