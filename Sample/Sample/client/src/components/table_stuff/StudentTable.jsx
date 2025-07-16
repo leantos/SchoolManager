@@ -45,7 +45,8 @@ const StudentTable = ({
     marks4 = null,
     total = null;
 
-  //pagination handlers
+  //loading timer
+  let loadingTimer = null;
 
   // pagination handlers
   const handleNext = () => {
@@ -70,7 +71,9 @@ const StudentTable = ({
     e.preventDefault();
 
     try {
-      setLoading(true);
+      loadingTimer = setTimeout(() => {
+        setLoading(true);
+      }, 300);
       const res = await fetch(`/Student?id=${id}`, {
         method: "DELETE",
         headers: {
@@ -89,6 +92,9 @@ const StudentTable = ({
     } catch (error) {
       setSuccess(false);
       setMessage("Error ", error);
+    } finally{
+      clearTimeout(loadingTimer);
+      setLoading(false);
     }
   };
 
@@ -119,7 +125,9 @@ const StudentTable = ({
       percentage: queryPercentage,
     };
     console.log(query);
-
+    loadingTimer = setTimeout(() => {
+      setLoading(true);
+    }, 300);
     try {
       const res = await fetch(
         `/Student/search?limit=${limit}&offset=${offset}`,
@@ -129,7 +137,6 @@ const StudentTable = ({
           body: JSON.stringify(query),
         }
       );
-
       const data = await res.json();
       console.log(data);
 
@@ -148,6 +155,8 @@ const StudentTable = ({
       setSuccess(false);
       setMessage("Search failed");
       console.error(err);
+    }finally{
+      clearTimeout(loadingTimer);
     }
   };
 
@@ -168,6 +177,9 @@ const StudentTable = ({
         total,
         percentage,
       };
+      loadingTimer = setTimeout(() => {
+        setLoading(true);
+      }, 300);
       try {
         const res = await fetch(
           `/Student/search?limit=${limit}&offset=${offset}`,
@@ -184,6 +196,8 @@ const StudentTable = ({
       } catch (err) {
         setSuccess(false);
         setMessage("Error while paging through search results");
+      }finally{
+        clearTimeout(loadingTimer);
       }
     } else {
       setCurrentPage(pageNum);
